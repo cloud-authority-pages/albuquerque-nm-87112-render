@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://albuquerque-nm-87112.onrender.com/sitemap.xml
+Sitemap: https://albuquerque-nm-87112.onrender.com/albuquerque-property-management/sitemap.xml
