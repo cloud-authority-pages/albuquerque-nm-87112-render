@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: albuquerque-nm-87112
+    env: static
+    staticPublishPath: public
+    buildCommand: ""
+    pullRequestPreviewsEnabled: false
